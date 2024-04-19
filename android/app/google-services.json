@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "589285434459",
+    "project_id": "hcdproject2",
+    "storage_bucket": "hcdproject2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589285434459:android:d4cde87c8c67eb5a148b7e",
+        "android_client_info": {
+          "package_name": "com.example.hcd_project2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIvDAw46DRmZk12_E1Xts06wqUuH3y9rE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
